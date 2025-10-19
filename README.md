@@ -366,13 +366,8 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Vietnam-84962334807&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Vietnam-84962334807&size=square" alt="Vietnam-+84-962-334-807" style="margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" alt="Vietnam-+84-962-334-807" style="margin: 10px;">
+      <a href="mailto:khonghuutoan@icloud.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siicloud&subtitle=khonghuutoan@icloud.com&size=square" alt="Itsmekht" style="margin: 10px;"">
       </a>
     </td>
   </tr>
