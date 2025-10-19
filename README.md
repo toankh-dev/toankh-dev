@@ -228,7 +228,7 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" /><br>Python
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="Fastapi" width="65" height="65" /><br>Fastapi
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=nest" width="50" height="50" alt="Flask"/><br>NestJS
@@ -255,6 +255,9 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" width="50" height="50"/><br>DynamoDB
       </td>
     </tr>
   </tbody>
@@ -344,12 +347,6 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
       </td>
       <td align="center" style="border: none;">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
       </td>
     </tr>
   </tbody>
