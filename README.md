@@ -228,7 +228,7 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" /><br>Python
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=nest" width="50" height="50" alt="Flask"/><br>NestJS
@@ -254,13 +254,7 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-      </td>
-      <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
       </td>
     </tr>
   </tbody>
@@ -287,9 +281,6 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
       <td align="center" style="border: none;">
         <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
-      </td>
     </tr>
   </tbody>
 </table>
@@ -304,12 +295,6 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
-      </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
       </td>
@@ -333,59 +318,6 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
         <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
        </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">AI/ML & Data Science</h3>
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="50" height="50"/><br>Pandas
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/><br>TensorFlow
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
-      </td>
-    </tr>
-  </tbody>
- </table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
-      </td>
-  <td align="center" style="border: none;">
-        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
-      </td>
     </tr>
   </tbody>
 </table>
@@ -424,126 +356,13 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
 </table>
 </div>
 
-<h3 align="center">Streaming & Video Editing</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="2" align="center" style="color: white;">Streaming Platforms</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" width="50" height="50" alt="Twitch"/><br>Twitch
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="50" height="50" alt="YouTube"/><br>YouTube
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th align="center" style="color: white;">Streaming Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" width="50" height="50" alt="OBS"/><br>OBS
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Video Editing Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" height="50" alt="Adobe Photoshop"/><br>Adobe Photoshop
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="50" height="50" alt="Adobe Premiere Pro"/><br>Adobe Premiere Pro
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="50" height="50" alt="Adobe After Effects"/><br>Adobe After Effects
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h2 align="center">🏆 Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="AI Content Creation"/>
-      <br>
-      <strong>AI-Powered Content Creation</strong>
-      <br>
-      Automated content generation using various LLMs
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="MapleLaw AI"/>
-      <br>
-      <strong>MapleLaw AI</strong>
-      <br>
-      Legal information assistant for Canadian citizens
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Sara AI"/>
-      <br>
-      <strong>Sara AI for Canadian Tire</strong>
-      <br>
-      AI-enhanced shopping experience
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="4K60 Streaming"/>
-      <br>
-      <strong>4K60 Streaming Setup</strong>
-      <br>
-      High-performance streaming with instant replay
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Cloud-Native Web Apps"/>
-      <br>
-      <strong>Cloud-Native Web Apps</strong>
-      <br>
-      Next.js, React, Django with Docker & Kubernetes
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Your Next Project?"/>
-      <br>
-      <strong>Your Next Project?</strong>
-      <br>
-      Let's collaborate on something amazing!
-    </td>
-  </tr>
-</table>
-
 <h2 align="center">📫 Let's Connect!</h2>
 
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:legiangbmt09@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=legiangbmt09@gmail.com&size=square" alt="RiverLee" style="margin: 10px;">
+      <a href="mailto:khonghuutoan@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=khonghuutoan@gmail.com&size=square" alt="Itsmekht" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -564,7 +383,7 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
 <h3>
 <div align="center">
   
-⭐️ From [GiangLe1999](https://github.com/GiangLe1999) | Let's innovate together! 🚀
+⭐️ From [toankh-dev](https://github.com/toankh-dev) | Let's innovate together! 🚀
 
 </div>
 </h3>
