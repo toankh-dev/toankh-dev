@@ -53,30 +53,30 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=GiangLe1999&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=toankh-dev&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiangLe1999&custom_title=Giang+Le's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=toankh-dev&custom_title=Toan+KH's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiangLe1999&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toankh-dev&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiangLe1999&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toankh-dev&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiangLe1999&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toankh-dev&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GiangLe1999&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="GiangLe1999's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=toankh-dev&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="toankh-dev's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiangLe1999&theme=highcontrast&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toankh-dev&theme=highcontrast&hide_border=true">
 
 ### Top Repositories
 
@@ -84,25 +84,25 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
   <table>
     <tr>
       <td>
-        <a href="https://github.com/GiangLe1999/NextJS_Elearning_Client">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiangLe1999&repo=NextJS_Elearning_Client&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/toankh-dev/NextJS_Elearning_Client">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=NextJS_Elearning_Client&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/GiangLe1999/NodeJS_Elearning_Server">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiangLe1999&repo=NodeJS_Elearning_Server&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/toankh-dev/NodeJS_Elearning_Server">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=NodeJS_Elearning_Server&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/GiangLe1999/Blog_Vs_Portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiangLe1999&repo=Blog_Vs_Portfolio&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/toankh-dev/Blog_Vs_Portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=Blog_Vs_Portfolio&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/GiangLe1999/New_Peugeot_2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiangLe1999&repo=New_Peugeot_2&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/toankh-dev/New_Peugeot_2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=New_Peugeot_2&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -113,7 +113,7 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=GiangLe1999&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=toankh-dev&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 </div>
@@ -132,12 +132,12 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
   <tr>
     <!-- Dev Profile -->
     <td align="center">
-<a href="https://app.daily.dev/lthanhgiang"><img src="https://api.daily.dev/devcards/v2/AjQyo81I4wy9oBxYFU4iz.png?type=default&r=er9" width="356" alt="Lê Thanh Giang's Dev Card"/></a>
+<a href="https://app.daily.dev/toankh"><img src="https://api.daily.dev/devcards/v2/AjQyo81I4wy9oBxYFU4iz.png?type=default&r=er9" width="356" alt="Hữu Toàn Khổng's Dev Card"/></a>
       </a>
     </td>
     <!-- roadmap.sh Profile -->
     <td align="center">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
+      <a href="https://roadmap.sh/u/itsmekht"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
     </td>
   </tr>
 </table>
