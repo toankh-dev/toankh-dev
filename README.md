@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/GiangLe1999">
-    <img src="https://avatars.githubusercontent.com/u/100833182?v=4" alt="RiverLee" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
+    <img src="https://avatars.githubusercontent.com/u/63409931?s=400&u=8fe5bd35a522aac26c55ccf8878fc5146f7e3833&v=4" alt="Itsmekht" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
   </a>
 </div>
 
