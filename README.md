@@ -84,25 +84,30 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
   <table>
     <tr>
       <td>
-        <a href="https://github.com/toankh-dev/NextJS_Elearning_Client">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=NextJS_Elearning_Client&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/toankh-dev/cms-email-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=cms-email-system&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/toankh-dev/NodeJS_Elearning_Server">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=NodeJS_Elearning_Server&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/toankh-dev/email-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=email-system&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/toankh-dev/Blog_Vs_Portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=Blog_Vs_Portfolio&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/toankh-dev/e-commerce-fe">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=e-commerce-fe&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/toankh-dev/New_Peugeot_2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=New_Peugeot_2&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/toankh-dev/e-commerce-be">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=e-commerce-be&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/toankh-dev/e-commerce-docker">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=toankh-dev&repo=e-commerce-docker&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -132,12 +137,12 @@ I am a dedicated website developer specializing in NextJS and NestJS. With a str
   <tr>
     <!-- Dev Profile -->
     <td align="center">
-<a href="https://app.daily.dev/toankh"><img src="https://api.daily.dev/devcards/v2/AjQyo81I4wy9oBxYFU4iz.png?type=default&r=er9" width="356" alt="Hữu Toàn Khổng's Dev Card"/></a>
+<a href="https://app.daily.dev/toankh"><img src="https://api.daily.dev/devcards/v2/xVYjm4nbGknzTN6B7Bu0X.png?r=pnc" width="356" alt="Hữu Toàn Khổng's Dev Card"/></a>
       </a>
     </td>
     <!-- roadmap.sh Profile -->
     <td align="center">
-      <a href="https://roadmap.sh/u/itsmekht"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68f4de2217747caa5acfed49?variant=dark&roadmaps=%2Cnodejs%2Creact%2Caws" alt="roadmap.sh"/></a>
     </td>
   </tr>
 </table>
